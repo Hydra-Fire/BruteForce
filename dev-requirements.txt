@@ -1,0 +1,14 @@
+requests 
+bs4
+mechanize
+twine
+Mechanicalsoup
+selenium
+clang
+socialbrute
+brute
+bruter
+rtspbrute
+bruteforceDict
+sshame
+stegcracker
