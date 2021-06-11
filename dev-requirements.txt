@@ -6,9 +6,5 @@ Mechanicalsoup
 selenium
 clang
 socialbrute
-brute
-bruter
-rtspbrute
-bruteforceDict
 sshame
 stegcracker
