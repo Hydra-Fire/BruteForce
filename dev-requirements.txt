@@ -23,7 +23,6 @@ py3DNS
 censys
 six
 shodan
-pycurl
 xmltodict
 rule
 scapy
