@@ -5,6 +5,4 @@ twine
 Mechanicalsoup
 selenium
 clang
-socialbrute
 sshame
-stegcracker
