@@ -26,4 +26,3 @@ shodan
 xmltodict
 rule
 scapy
-psycopg2
